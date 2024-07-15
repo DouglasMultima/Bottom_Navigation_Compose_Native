@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bottom_Navigation</string>
+
+
+    <!-- BottomAppBar-->
+
+    <string name="bottom_bar_item_feed">Feed</string>
+    <string name="bottom_bar_item_search">Pesquisar</string>
+    <string name="bottom_bar_item_friends">Amigos</string>
+    <string name="bottom_bar_item_profile">Perfil</string>
+
+
+
+</resources>
